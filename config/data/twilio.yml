@@ -1,8 +1,1 @@
-account_sid: AC32933c9215a5e1858cba439b6d3401
-auth_token: daa95c56e99f3f6306a6db1e7b0a69
-from: +1646583358
-url: http://dl.dropbox.com/u/1017793/voice.xml
-presenter_url: https://dl.dropboxusercontent.com/s/7vkkhwocta2a6/default_presenter.xml
-guest_url: https://dl.dropboxusercontent.com/s/792w5zaedrzws/default_guest.xml
-host_url: https://dl.dropboxusercontent.com/s/h66rprd81i4xn/default_host.xml
-method: POST
+
