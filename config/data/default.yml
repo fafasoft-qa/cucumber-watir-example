@@ -4,19 +4,19 @@ login_no_username:
   password: asdqwe
 
 login_no_password:
-  username: kimross@cinchcast.com
+  username: 
   password: 
 
 login_incorrect:
-  username: kimross@cinchcast.com
+  username: 
   password: incorrect
 
 guest_email:
-  email: GuestAMS@gmail.com
+  email: 
   password: asdQWE123
 
 presenter_email:
-  email: presenterams@gmail.com
+  email: 
   password: asdQWE123
 
 event_form_data:
@@ -52,39 +52,6 @@ path_to_test_files:
   only_one_pptx: /upload_files/only_one_slide_PPTX.pptx
   pdf_file1: /upload_files/qaams_short_pdf_sample.pdf
   video_mp4_file: /upload_files/qaamsvideofile.mp4
-  video_divx_file: /upload_files/qaamsvideofile.divx
+  vivx_file: /upload_files/qaamsvideofile.divx
   video_3gp_file: /upload_files/qaamsvideofile.3gp
 
-prod_summon_api_data:
-  admin_key:  a54a40a975ea42249e78b90fdd58a0bf
-  uri: http://summon.cinch.lightcrest.com:7000/Dialer/Call/ #http://cb-api.sip.blogtalkradio.com:7000/Dialer/Call/
-  sip_ams: 66.128.12.153
-prodcwebcast_summon_api_data:
-  admin_key:  a54a40a975ea42249e78b90fdd58a0bf
-  uri: http://summon.cinch.lightcrest.com:7000/Dialer/Call/ #http://cb-api.sip.blogtalkradio.com:7000/Dialer/Call/
-  sip_ams: 66.128.12.153
-qa_summon_api_data:
-  admin_key:  649a15410a9c41ec96bbc014ef6d9cac
-  uri: http://summon1-qa.cinch.lightcrest.com:7000/Dialer/Call/ #http://cb-api-qa.sip.blogtalkradio.com:7000/Dialer/Call/
-  sip_ams: 66.128.12.166
-qa2_summon_api_data:
-  admin_key:  649a15410a9c41ec96bbc014ef6d9cac
-  uri: http://summon1-qa.cinch.lightcrest.com:7000/Dialer/Call/ #http://cb-api-qa.sip.blogtalkradio.com:7000/Dialer/Call/
-  sip_ams: 66.128.12.166
-qa3_summon_api_data:
-  admin_key:  649a15410a9c41ec96bbc014ef6d9cac
-  uri: http://summon1-qa.cinch.lightcrest.com:7000/Dialer/Call/ #http://cb-api-qa.sip.blogtalkradio.com:7000/Dialer/Call/
-  sip_ams: 66.128.12.166
-qacwebcast_summon_api_data:
-  admin_key:  649a15410a9c41ec96bbc014ef6d9cac
-  uri: http://summon1-qa.cinch.lightcrest.com:7000/Dialer/Call/ #http://cb-api-qa.sip.blogtalkradio.com:7000/Dialer/Call/
-  sip_ams: 66.128.12.166
-dev_summon_api_data:
-  admin_key:  649a15410a9c41ec96bbc014ef6d9cac
-  uri: http://summon1-dev.cinch.lightcrest.com:7000/Dialer/Call/ #http://cb-api-dev-01.sip.blogtalkradio.com:7000/Dialer/Call/
-  sip_ams: 66.128.12.165
-
-intranet_viral_link_client:
-  clientid_for_dev: 4
-  clientid_for_qa: 4
-  clientid_for_prod: 227
