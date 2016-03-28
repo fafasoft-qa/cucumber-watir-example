@@ -1,12 +1,12 @@
 browser: chrome
 screenshot_directory: reports/screenshots
 screenshot_directory_html: screenshots
-env: feature2-platform.cinchcast.com
-staging_env: https://platform.cinchcast.com/Diagnostics/Utils
-intranet: feature2-platform.cinchcast.com/intranet
-admin_url: feature2-platform.cinchcast.com/admin
+env: 
+staging_env: 
+intranet: 
+admin_url: 
 calling_method: caller
-summon_api_env: cb-api-dev-01.sip.blogtalkradio.com
+summon_api_env: 
 staging_switch: disabled
 video_switch: enabled
 env_type: dev
