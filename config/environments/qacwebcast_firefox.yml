@@ -1,12 +1,12 @@
 browser: firefox
 screenshot_directory: reports/screenshots
 screenshot_directory_html: screenshots
-env: qa.cwebcast.com
-staging_env: https://qa.cwebcast.com/Diagnostics/Utils
-intranet: qa.cwebcast.com/intranet
-admin_url: qa.cwebcast.com/admin
+env: 
+staging_env: 
+intranet: 
+admin_url: 
 calling_method: caller
-summon_api_env: cb-api-qa.sip.blogtalkradio.com
+summon_api_env: 
 staging_switch: disabled
 video_switch: enabled
 env_type: qa
