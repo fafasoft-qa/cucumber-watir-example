@@ -1,10 +1,10 @@
 default_create_client_data:
-  reseller: cinchcast
-  client: cinchcast
+  reseller: 
+  client: 
   password: asdqwe   #will always be the same pass for def and custom
 custom_create_client_data:
-  reseller: cinchcast
-  client: cinchcast
+  reseller: 
+  client: 
 account_create_form:
   model.account.FirstName:  test
   model.account.LastName:   test
