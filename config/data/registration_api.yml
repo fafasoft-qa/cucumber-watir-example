@@ -1,0 +1,12 @@
+registration_api_data:
+  form_data:
+    - Firstname|Test Name
+    - LastName|Test LastName
+  email_prefix: loadmq
+  email_domain: gmail.com
+  registration_email: loadmq@gmail.com
+  password: asdQWE123
+  ref_code: nil
+  options:
+    - SendEmailAfterRegister|true
+  uri: /api/v1/registration

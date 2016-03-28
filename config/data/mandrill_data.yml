@@ -1,0 +1,15 @@
+mandrill_api_data:
+  qa_search_api_key: WMpvvid_JMTKQLQv2wyb-A
+  qa_send_api_key: aouL5SJqJAYJk8IBCmlE-g
+  qa_send_api_keys:
+    - aouL5SJqJAYJk8IBCmlE-g
+  prod_search_api_key: gcRyxHO81Gh634_Mt9mLcQ
+  prod_send_api_keys:
+    - gcRyxHO81Gh634_Mt9mLcQ
+  mail_sender: noreply@cinchcast.com
+  query_email: email
+  query_full_email: full_email
+  recipient_mail_server: cinchcast.com
+  switch:  gmail #gmail | mandrill otherwise
+  mandrill_timeout: 60
+

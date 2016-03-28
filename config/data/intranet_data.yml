@@ -1,0 +1,24 @@
+prod_intranet_data:
+  emailpinsearch_email: fafasoft.cinchcast@gmail.com
+  emailpinsearch_pin: 8203741
+  emailpinsearch_junk: fds7383gsd783e3gds
+qa_intranet_data:
+  emailpinsearch_email: fafasoft.cinchcast@gmail.com
+  emailpinsearch_pin: 3429344
+  emailpinsearch_junk: fds7383gsd783e3gds
+qa2_intranet_data:
+  emailpinsearch_email: fafasoft.cinchcast@gmail.com
+  emailpinsearch_pin: 3429344
+  emailpinsearch_junk: fds7383gsd783e3gds
+qa3_intranet_data:
+  emailpinsearch_email: fafasoft.cinchcast@gmail.com
+  emailpinsearch_pin: 3429344
+  emailpinsearch_junk: fds7383gsd783e3gds
+dev_intranet_data:
+  emailpinsearch_email: fafasoft.cinchcast@gmail.com
+  emailpinsearch_pin: 1173487
+  emailpinsearch_junk: fds7383gsd783e3gds
+feature2_intranet_data:
+  emailpinsearch_email: fafasoft.cinchcast@gmail.com
+  emailpinsearch_pin: 1173487
+  emailpinsearch_junk: fds7383gsd783e3gds

@@ -1,0 +1,36 @@
+default: --no-source --color --profile html_report --format pretty
+
+prod_chrome: FIG_NEWTON_FILE=prod_chrome.yml  --no-source --format pretty  
+prod_firefox: FIG_NEWTON_FILE=prod_firefox.yml  --no-source --format pretty
+
+prodcwebcast_chrome: FIG_NEWTON_FILE=prodcwebcast_chrome.yml  --no-source --format pretty
+prodcwebcast_firefox: FIG_NEWTON_FILE=prodcwebcast_firefox.yml  --no-source --format pretty
+
+stage_chrome: FIG_NEWTON_FILE=stage_chrome.yml  --no-source --format pretty
+stage_firefox: FIG_NEWTON_FILE=stage_firefox.yml  --no-source --format pretty
+
+stage_cwebcast_chrome: FIG_NEWTON_FILE=stage_cwebcast_chrome.yml  --no-source --format pretty
+stage_cwebcast_firefox: FIG_NEWTON_FILE=stage_cwebcast_firefox.yml  --no-source --format pretty
+
+qa_chrome: FIG_NEWTON_FILE=qa_chrome.yml --no-source  --format pretty
+qa_firefox: FIG_NEWTON_FILE=qa_firefox.yml --no-source  --format pretty 
+
+qa2_chrome: FIG_NEWTON_FILE=qa2_chrome.yml --no-source  --format pretty 
+qa2_firefox: FIG_NEWTON_FILE=qa2_firefox.yml --no-source  --format pretty 
+
+qa3_chrome: FIG_NEWTON_FILE=qa3_chrome.yml --no-source  --format pretty
+qa3_firefox: FIG_NEWTON_FILE=qa3_firefox.yml --no-source  --format pretty
+
+qacwebcast_chrome: FIG_NEWTON_FILE=qacwebcast_chrome.yml --no-source  --format pretty
+qacwebcast_firefox: FIG_NEWTON_FILE=qacwebcast_firefox.yml --no-source  --format pretty
+
+dev_firefox: FIG_NEWTON_FILE=dev_firefox.yml --no-source  --format pretty
+dev_chrome: FIG_NEWTON_FILE=dev_chrome.yml --no-source  --format pretty
+
+feature1_firefox: FIG_NEWTON_FILE=feature1_firefox.yml --no-source  --format pretty
+feature1_chrome: FIG_NEWTON_FILE=feature1_chrome.yml --no-source  --format pretty
+
+feature2_firefox: FIG_NEWTON_FILE=feature2_firefox.yml --no-source  --format pretty
+feature2_chrome: FIG_NEWTON_FILE=feature2_chrome.yml --no-source  --format pretty
+
+html_report: --format progress --format html --out=log\features_report.html

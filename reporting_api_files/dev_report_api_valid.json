@@ -1,0 +1,262 @@
+{
+    "Id": 9917,
+    "Title": "automation event for reporting. do not touch 3",
+    "CreationDate": "2015-02-11T15:04:44.68Z",
+    "EventStartDate": "2015-02-11T15:08:43",
+    "PublishDate": "2015-02-11T15:04:44.077Z",
+    "EventDuration": 2504,
+    "EventStatus": "Archived",
+    "IsRegistrationEnabled": true,
+    "Audience": {
+        "Summary": {
+            "TotalRegistrationPageViews": 3,
+            "TotalRegistrations": 4,
+            "TotalAttended": 4
+        },
+        "Registrants": {
+            "TotalPages": 1,
+            "CurrentPage": 1,
+            "RegistrantsPage": [
+                {
+                    "Id": 1351,
+                    "Email": "jair.tabares@gmail.com",
+                    "FirstName": "Jair",
+                    "LastName": "tester",
+                    "UserType": "Presenter",
+                    "Attended": true,
+                    "Duration": 2876,
+                    "MultipleSessions": false,
+                    "RegistrationDate": "2015-02-11T15:04:44.907",
+                    "RegistrantDetails": {
+                        "Id": 1351,
+                        "ListenerData": [
+                            {
+                                "JoinTime": "2015-02-11T15:27:52",
+                                "ExitTime": "2015-02-11T15:28:49",
+                                "Duration": 57,
+                                "Type": "Phone",
+                                "Live": true
+                            },
+                            {
+                                "JoinTime": "2015-02-11T15:42:57",
+                                "ExitTime": "2015-02-11T15:48:38",
+                                "Duration": 341,
+                                "Type": "Phone",
+                                "Live": true
+                            },
+                            {
+                                "JoinTime": null,
+                                "ExitTime": null,
+                                "Duration": 2478,
+                                "Type": "Web",
+                                "Live": true
+                            }
+                        ],
+                        "RegistrantSessions": [
+                            {
+                                "SessionId": "8a73975a-099e-5ac8-c376-14c41cd24b67",
+                                "Duration": 2478,
+                                "Live": true
+                            }
+                        ],
+                        "RegistrationData": [
+                            {
+                                "Name": "firstName",
+                                "Value": "Jair"
+                            },
+                            {
+                                "Name": "lastName",
+                                "Value": "tester"
+                            },
+                            {
+                                "Name": "Email",
+                                "Value": "jair.tabares@gmail.com"
+                            },
+                            {
+                                "Name": "phoneNumber",
+                                "Value": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Id": 1352,
+                    "Email": "guest1@test.com",
+                    "FirstName": "G1",
+                    "LastName": "T",
+                    "UserType": "Guest",
+                    "Attended": true,
+                    "Duration": 2609,
+                    "MultipleSessions": false,
+                    "RegistrationDate": "2015-02-11T15:06:07.31",
+                    "RegistrantDetails": {
+                        "Id": 1352,
+                        "ListenerData": [
+                            {
+                                "JoinTime": "2015-02-11T15:45:06",
+                                "ExitTime": "2015-02-11T15:47:39",
+                                "Duration": 153,
+                                "Type": "Phone",
+                                "Live": true
+                            },
+                            {
+                                "JoinTime": null,
+                                "ExitTime": null,
+                                "Duration": 2456,
+                                "Type": "Web",
+                                "Live": true
+                            }
+                        ],
+                        "RegistrantSessions": [
+                            {
+                                "SessionId": "8a73975a-099e-5ac8-c376-14c41cd24b67",
+                                "Duration": 2456,
+                                "Live": true
+                            }
+                        ],
+                        "RegistrationData": [
+                            {
+                                "Name": "Email",
+                                "Value": "guest1@test.com"
+                            },
+                            {
+                                "Name": "firstName",
+                                "Value": "G1"
+                            },
+                            {
+                                "Name": "lastName",
+                                "Value": "T"
+                            },
+                            {
+                                "Name": "jobTitle",
+                                "Value": ""
+                            },
+                            {
+                                "Name": "companyName",
+                                "Value": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Id": 1353,
+                    "Email": "guest3@test.com",
+                    "FirstName": "G3",
+                    "LastName": "T",
+                    "UserType": "Guest",
+                    "Attended": true,
+                    "Duration": 2632,
+                    "MultipleSessions": false,
+                    "RegistrationDate": "2015-02-11T15:06:30.743",
+                    "RegistrantDetails": {
+                        "Id": 1353,
+                        "ListenerData": [
+                            {
+                                "JoinTime": "2015-02-11T15:48:50",
+                                "ExitTime": "2015-02-11T15:51:41",
+                                "Duration": 171,
+                                "Type": "Phone",
+                                "Live": true
+                            },
+                            {
+                                "JoinTime": null,
+                                "ExitTime": null,
+                                "Duration": 2461,
+                                "Type": "Web",
+                                "Live": true
+                            }
+                        ],
+                        "RegistrantSessions": [
+                            {
+                                "SessionId": "8a73975a-099e-5ac8-c376-14c41cd24b67",
+                                "Duration": 2461,
+                                "Live": true
+                            }
+                        ],
+                        "RegistrationData": [
+                            {
+                                "Name": "Email",
+                                "Value": "guest3@test.com"
+                            },
+                            {
+                                "Name": "firstName",
+                                "Value": "G3"
+                            },
+                            {
+                                "Name": "lastName",
+                                "Value": "T"
+                            },
+                            {
+                                "Name": "jobTitle",
+                                "Value": ""
+                            },
+                            {
+                                "Name": "companyName",
+                                "Value": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Id": 1354,
+                    "Email": "guest2@test.com",
+                    "FirstName": "G2",
+                    "LastName": "T",
+                    "UserType": "Guest",
+                    "Attended": true,
+                    "Duration": 2680,
+                    "MultipleSessions": false,
+                    "RegistrationDate": "2015-02-11T15:06:33.7",
+                    "RegistrantDetails": {
+                        "Id": 1354,
+                        "ListenerData": [
+                            {
+                                "JoinTime": "2015-02-11T15:48:01",
+                                "ExitTime": "2015-02-11T15:51:22",
+                                "Duration": 201,
+                                "Type": "Phone",
+                                "Live": true
+                            },
+                            {
+                                "JoinTime": null,
+                                "ExitTime": null,
+                                "Duration": 2479,
+                                "Type": "Web",
+                                "Live": true
+                            }
+                        ],
+                        "RegistrantSessions": [
+                            {
+                                "SessionId": "8a73975a-099e-5ac8-c376-14c41cd24b67",
+                                "Duration": 2479,
+                                "Live": true
+                            }
+                        ],
+                        "RegistrationData": [
+                            {
+                                "Name": "Email",
+                                "Value": "guest2@test.com"
+                            },
+                            {
+                                "Name": "firstName",
+                                "Value": "G2"
+                            },
+                            {
+                                "Name": "lastName",
+                                "Value": "T"
+                            },
+                            {
+                                "Name": "jobTitle",
+                                "Value": ""
+                            },
+                            {
+                                "Name": "companyName",
+                                "Value": ""
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}

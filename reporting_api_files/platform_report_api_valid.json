@@ -1,0 +1,252 @@
+{
+  "Id": 24379,
+  "Title": "do not delete this is for automation 2",
+  "CreationDate": "2014-04-24T18:55:15.5Z",
+  "EventStartDate": "2014-04-24T19:01:58",
+  "PublishDate": "2014-04-24T18:57:18.6Z",
+  "EventDuration": 661,
+  "EventStatus": "Archived",
+  "IsRegistrationEnabled": true,
+  "Audience": {
+    "Summary": {
+      "TotalRegistrationPageViews": 3,
+      "TotalRegistrations": 3,
+      "TotalAttended": 3
+    },
+    "Registrants": {
+      "TotalPages": 1,
+      "CurrentPage": 1,
+      "RegistrantsPage": [
+        {
+          "Id": 217994,
+          "Email": "jairtabares@cinchcast.com",
+          "FirstName": "",
+          "LastName": "",
+          "UserType": "Presenter",
+          "Attended": true,
+          "Duration": 243,
+          "MultipleSessions": false,
+          "RegistrationDate": "2014-04-24T18:57:18.56Z",
+          "RegistrantDetails": {
+            "Id": 217994,
+            "ListenerData": [
+              {
+                "JoinTime": "2014-04-24T18:59:00",
+                "ExitTime": "2014-04-24T19:03:03",
+                "Duration": 243,
+                "Type": "Phone",
+                "Live": true
+              }
+            ],
+            "RegistrantSessions": [
+
+            ],
+            "RegistrationData": [
+              {
+                "Name": "firstName",
+                "Value": ""
+              },
+              {
+                "Name": "lastName",
+                "Value": ""
+              },
+              {
+                "Name": "Email",
+                "Value": "jairtabares@cinchcast.com"
+              },
+              {
+                "Name": "phoneNumber",
+                "Value": ""
+              }
+            ]
+          }
+        },
+        {
+          "Id": 218007,
+          "Email": "jair.tabares@gmail.com",
+          "FirstName": "",
+          "LastName": "",
+          "UserType": "Guest",
+          "Attended": true,
+          "Duration": 2283,
+          "MultipleSessions": true,
+          "RegistrationDate": "2014-04-24T19:00:57.55Z",
+          "RegistrantDetails": {
+            "Id": 218007,
+            "ListenerData": [
+              {
+                "JoinTime": "2014-04-24T19:10:24",
+                "ExitTime": "2014-04-24T19:12:38",
+                "Duration": 134,
+                "Type": "Phone",
+                "Live": true
+              },
+              {
+                "JoinTime": null,
+                "ExitTime": null,
+                "Duration": 525,
+                "Type": "Web",
+                "Live": true
+              },
+              {
+                "JoinTime": null,
+                "ExitTime": null,
+                "Duration": 945,
+                "Type": "Web",
+                "Live": true
+              },
+              {
+                "JoinTime": null,
+                "ExitTime": null,
+                "Duration": 679,
+                "Type": "Web",
+                "Live": true
+              }
+            ],
+            "RegistrantSessions": [
+              {
+                "SessionId": "772216d5-98e6-edde-ad32-831b54d53e9b",
+                "Duration": 525,
+                "Live": true
+              },
+              {
+                "SessionId": "ca7a9e14-b010-bbea-263f-577845a055e3",
+                "Duration": 945,
+                "Live": true
+              },
+              {
+                "SessionId": "dc106a48-bd08-25ba-ea25-e6dbc4ccccee",
+                "Duration": 679,
+                "Live": true
+              }
+            ],
+            "RegistrationData": [
+              {
+                "Name": "Email",
+                "Value": "jair.tabares@gmail.com"
+              },
+              {
+                "Name": "firstName",
+                "Value": ""
+              },
+              {
+                "Name": "lastName",
+                "Value": ""
+              },
+              {
+                "Name": "jobTitle",
+                "Value": ""
+              },
+              {
+                "Name": "companyName",
+                "Value": ""
+              }
+            ]
+          }
+        },
+        {
+          "Id": 218008,
+          "Email": "jagoofthemoon@yahoo.com.ar",
+          "FirstName": "",
+          "LastName": "",
+          "UserType": "Guest",
+          "Attended": true,
+          "Duration": 1729,
+          "MultipleSessions": true,
+          "RegistrationDate": "2014-04-24T19:01:24.58Z",
+          "RegistrantDetails": {
+            "Id": 218008,
+            "ListenerData": [
+              {
+                "JoinTime": "2014-04-24T19:03:13",
+                "ExitTime": "2014-04-24T19:09:27",
+                "Duration": 374,
+                "Type": "Phone",
+                "Live": true
+              },
+              {
+                "JoinTime": "2014-04-24T19:09:34",
+                "ExitTime": "2014-04-24T19:10:16",
+                "Duration": 42,
+                "Type": "Phone",
+                "Live": true
+              },
+              {
+                "JoinTime": null,
+                "ExitTime": null,
+                "Duration": 213,
+                "Type": "Web",
+                "Live": true
+              },
+              {
+                "JoinTime": null,
+                "ExitTime": null,
+                "Duration": 231,
+                "Type": "Web",
+                "Live": true
+              },
+              {
+                "JoinTime": null,
+                "ExitTime": null,
+                "Duration": 213,
+                "Type": "Web",
+                "Live": true
+              },
+              {
+                "JoinTime": null,
+                "ExitTime": null,
+                "Duration": 656,
+                "Type": "Web",
+                "Live": true
+              }
+            ],
+            "RegistrantSessions": [
+              {
+                "SessionId": "1a33de0e-7288-a20d-b6c4-839c8eec0ee8",
+                "Duration": 213,
+                "Live": true
+              },
+              {
+                "SessionId": "44a0d6c4-f30b-bb58-92f3-5634f94f60e2",
+                "Duration": 231,
+                "Live": true
+              },
+              {
+                "SessionId": "ca7a9e14-b010-bbea-263f-577845a055e3",
+                "Duration": 213,
+                "Live": true
+              },
+              {
+                "SessionId": "dc106a48-bd08-25ba-ea25-e6dbc4ccccee",
+                "Duration": 656,
+                "Live": true
+              }
+            ],
+            "RegistrationData": [
+              {
+                "Name": "Email",
+                "Value": "jagoofthemoon@yahoo.com.ar"
+              },
+              {
+                "Name": "firstName",
+                "Value": ""
+              },
+              {
+                "Name": "lastName",
+                "Value": ""
+              },
+              {
+                "Name": "jobTitle",
+                "Value": ""
+              },
+              {
+                "Name": "companyName",
+                "Value": ""
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

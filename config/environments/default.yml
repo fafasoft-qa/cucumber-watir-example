@@ -1,0 +1,13 @@
+browser: firefox
+screenshot_directory: reports/screenshots
+screenshot_directory_html: screenshots
+env: qa-platform.cinchcast.com
+staging_env: https://platform.cinchcast.com/Diagnostics/Utils
+intranet: qa-platform.cinchcast.com/intranet
+admin_url: qa-platform.cinchcast.com/admin
+calling_method: caller
+summon_api_env: cb-api-qa.sip.blogtalkradio.com
+staging_switch: disabled
+video_switch: enabled
+env_type: qa
+env_prefix: qa

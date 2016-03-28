@@ -1,0 +1,163 @@
+{
+    "Id": 25020,
+    "Title": "FS test 01 decoupled",
+    "CreationDate": "2015-09-28T13:45:24.087Z",
+    "EventStartDate": "2015-09-28T14:13:02.747",
+    "PublishDate": "2015-09-28T14:30:00Z",
+    "EventDuration": 277,
+    "EventStatus": "Archived",
+    "IsRegistrationEnabled": true,
+    "Audience": {
+        "Summary": {
+            "TotalRegistrationPageViews": 0,
+            "TotalRegistrations": 3,
+            "TotalAttended": 3
+        },
+        "Registrants": {
+            "TotalPages": 1,
+            "CurrentPage": 1,
+            "RegistrantsPage": [
+                {
+                    "Id": 54836,
+                    "Email": "jairtabares@cinchcast.com",
+                    "FirstName": null,
+                    "LastName": null,
+                    "UserType": "Presenter",
+                    "Attended": true,
+                    "Duration": 244,
+                    "MultipleSessions": false,
+                    "RegistrationDate": "2015-09-28T14:09:18.853Z",
+                    "RegistrantDetails": {
+                        "Id": 54836,
+                        "ListenerData": [
+                            {
+                                "JoinTime": "2015-09-28T19:13:44.703",
+                                "ExitTime": "2015-09-28T19:17:48.887",
+                                "Duration": 244,
+                                "Type": "Phone",
+                                "Live": true
+                            }
+                        ],
+                        "RegistrantSessions": [
+
+                        ],
+                        "RegistrationData": [
+                            {
+                                "Name": "firstName",
+                                "Value": ""
+                            },
+                            {
+                                "Name": "lastName",
+                                "Value": ""
+                            },
+                            {
+                                "Name": "Email",
+                                "Value": "jairtabares@cinchcast.com"
+                            },
+                            {
+                                "Name": "phoneNumber",
+                                "Value": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Id": 54837,
+                    "Email": "test@test.com",
+                    "FirstName": "",
+                    "LastName": "",
+                    "UserType": "Guest",
+                    "Attended": true,
+                    "Duration": 98,
+                    "MultipleSessions": false,
+                    "RegistrationDate": "2015-09-28T14:12:47.503Z",
+                    "RegistrantDetails": {
+                        "Id": 54837,
+                        "ListenerData": [
+                            {
+                                "JoinTime": "2015-09-28T19:16:10.943",
+                                "ExitTime": "2015-09-28T19:17:48.81",
+                                "Duration": 98,
+                                "Type": "Phone",
+                                "Live": true
+                            }
+                        ],
+                        "RegistrantSessions": [
+
+                        ],
+                        "RegistrationData": [
+                            {
+                                "Name": "Email",
+                                "Value": "test@test.com"
+                            },
+                            {
+                                "Name": "firstName",
+                                "Value": ""
+                            },
+                            {
+                                "Name": "lastName",
+                                "Value": ""
+                            },
+                            {
+                                "Name": "jobTitle",
+                                "Value": ""
+                            },
+                            {
+                                "Name": "companyName",
+                                "Value": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Id": 54838,
+                    "Email": "test3@test.com",
+                    "FirstName": "",
+                    "LastName": "",
+                    "UserType": "Guest",
+                    "Attended": true,
+                    "Duration": 114,
+                    "MultipleSessions": false,
+                    "RegistrationDate": "2015-09-28T14:13:36.237Z",
+                    "RegistrantDetails": {
+                        "Id": 54838,
+                        "ListenerData": [
+                            {
+                                "JoinTime": "2015-09-28T19:15:54.363",
+                                "ExitTime": "2015-09-28T19:17:48.807",
+                                "Duration": 114,
+                                "Type": "Phone",
+                                "Live": true
+                            }
+                        ],
+                        "RegistrantSessions": [
+
+                        ],
+                        "RegistrationData": [
+                            {
+                                "Name": "Email",
+                                "Value": "test3@test.com"
+                            },
+                            {
+                                "Name": "firstName",
+                                "Value": ""
+                            },
+                            {
+                                "Name": "lastName",
+                                "Value": ""
+                            },
+                            {
+                                "Name": "jobTitle",
+                                "Value": ""
+                            },
+                            {
+                                "Name": "companyName",
+                                "Value": ""
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}

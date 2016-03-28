@@ -1,0 +1,9 @@
+hosts_studio_chat:
+  host1_nickname: Billy
+  host2_nickname: Tommy
+  host1_message: Hi, I'm Billy the presenter
+  host2_message: Hi, I'm Tommy other presenter
+
+permalink_chat:
+  anonymous_message: Hi there, I'm an anonymous guest
+

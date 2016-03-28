@@ -1,0 +1,14 @@
+browser: chrome
+screenshot_directory: reports/screenshots
+screenshot_directory_html: screenshots
+env: prod.cwebcast.com
+staging_env: https://prod.cwebcast.com/Diagnostics/Utils
+wl_staging_env: https://prod.cwebcast.com/Diagnostics/Utils
+intranet: prod.cwebcast.com/intranet
+admin_url: prod.cwebcast.com/admin
+calling_method: caller
+summon_api_env: cb-api.sip.blogtalkradio.com
+staging_switch: enabled
+video_switch: enabled
+env_type: prod
+env_prefix: prodcwebcast
