@@ -1,12 +1,12 @@
 browser: firefox
 screenshot_directory: reports/screenshots
 screenshot_directory_html: screenshots
-env: platform.cinchcast.com
-staging_env: https://platform.cinchcast.com/Diagnostics/Utils
-intranet: platform.cinchcast.com/intranet
-admin_url: platform.cinchcast.com/admin
+env: 
+staging_env: 
+intranet: 
+admin_url: 
 calling_method: caller
-summon_api_env: cb-api.sip.blogtalkradio.com
+summon_api_env: 
 staging_switch: enabled
 video_switch: enabled
 env_type: prod
