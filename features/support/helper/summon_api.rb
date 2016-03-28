@@ -18,20 +18,7 @@ class Summon_API_Client
     DataMagic.data_for('default/'+env_prefix+'_summon_api_data', data)
   end
 
-  def self.get_summon_api_data (data = {})
-    DataMagic.load('summon_api.yml')
-    summon_api_env = FigNewton.summon_api_env
-    case summon_api_env
-      when 'cb-api-dev-01.sip.blogtalkradio.com'
-        DataMagic.data_for('summon_api/dev_telephony_api_data', data)
-      when 'cb-api-qa.sip.blogtalkradio.com'
-        DataMagic.data_for('summon_api/qa_telephony_api_data', data)
-      when 'cb-api.sip.blogtalkradio.com'
-        DataMagic.data_for('summon_api/prod_telephony_api_data', data)
-      else
-        fail 'environment variable did not match expected value'
-    end
-  end
+
 
   def self.call(call_as, phone_number, conf_id, pin)
     data = nil
